@@ -1,9 +1,13 @@
-# CV Diego Damián
+## CV Diego Damián
 
-## Theme Base 
+### Tema base 
+
+- [Stavros Panakakis Theme](https://github.com/Stavrospanakakis/jekyll-cv)
+
+### Herramientas
 
 - [icons](https://feathericons.com/)
-- [Stavros Panakakis Theme](https://github.com/Stavrospanakakis/jekyll-cv)
+
 
 <!--
 - Go to Settings and select ```gh-pages``` as Github Pages source
