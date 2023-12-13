@@ -12,6 +12,9 @@
                 <span class="time">{{exp.time}}</span>
             </div> 
             <div class="details">{{exp.details}}</div>
+            {% for tarx in exp.tareas %}
+                <li class="details">{{tarx.tar}}</li>
+            {% endfor %}        
             <p class="technologies">Teconologías utilizadas: {{exp.technologies_used}}</p>
         </div>
        

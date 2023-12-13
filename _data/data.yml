@@ -47,14 +47,16 @@ experience:
   - role: Analista de soporte de aplicaciones 
     time: 11/2021-08/2023
     company: HITSS Perú S.A.C.
-    details: |
-      Administración de servidores Red Hat 7. 
-      Administración de base de datos Oracle 11g. 
-      Monitoreo de servicios a través de Zabbix. 
-      Creación y actualización de scripts con PL/SQL. 
-      Registro y seguimiento de tickets en sistema Remedy.  
-      Creación de scripts en Python para automatización de servidores. 
-      Monitoreo y actualización de scripts en orquestador de aplicaciones TS-ROS. 
+#    details: |
+#      Administración de servidores Red Hat 7. 
+    tareas: 
+     - tar: Administración de servidores Red Hat 7. 
+     - tar: Administración de base de datos Oracle 11g. 
+     - tar: Monitoreo de servicios a través de Zabbix. 
+     - tar: Creación y actualización de scripts con PL/SQL. 
+     - tar: Registro y seguimiento de tickets en sistema Remedy.  
+     - tar: Creación de scripts en Python para automatización de servidores. 
+     - tar: Monitoreo y actualización de scripts en orquestador de aplicaciones TS-ROS. 
 
     technologies_used: | 
       Linux, PL/SQL, Python
