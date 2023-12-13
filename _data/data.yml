@@ -146,70 +146,65 @@ experience:
     technologies_used: | 
       Windows Server
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Curso Excel Intermedio 2019 - 06/05/2021
-#    link: #
-    details: |
-      Sistemas UNI - 24 hrs.
-
-  - title: Curso Huawei University Open Courses - 17/12/2020
-#    link: #
-    details: |
-      Huawei Training.
-
-  - title: Curso MS. SQL Server 2016 - Implementación - 24/06/2019
-#    link: #
-    details: |
-      Sistemas UNI - 24 hrs.
-
-  - title: Curso Modelamiento de datos - 24/06/2019
-#    link: #
-    details: |
-      Sistemas UNI - 24 hrs.
-
-  - title: Taller Machine Learning - 11/05/2019
-#    link: #
-    details: |
-      Municipalidad de Lima
-
-  - title: Curso Java 7.0 Fundamentals Developer
-#    link: #
-    details: |
-      Cibertec - 70 hrs.
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-  - time: 2023-Present
-    role: PRX Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-# Certification
+# Certificaciones
 certification:
   - institution: Sistemas UNI
-    name_hours: Curso Excel Intermedio 2019 (24 hrs)
+    name_hours: Curso de Excel Intermedio 2019 (24 hrs)
     time: 06/05/2021
 
   - institution: Huawei Training
-    name_hours: Curso Huawei University Open Courses
+    name_hours: Huawei University Open Courses
     time: 17/12/2020
+
+  - institution: Sistemas UNI
+    name_hours: Curso de MS. SQL Server 2016 - Implementación (24 hrs)
+    time: 24/06/2019
+
+  - institution: Sistemas UNI
+    name_hours: Curso de Modelamiento de datos (24 hrs)
+    time: 24/06/2019
+
+  - institution: Municipalidad de Lima
+    name_hours: Taller de Machine Learning
+    time: 11/05/2019
+
+  - institution: Cibertec
+    name_hours: Curso Java 7.0 Fundamentals Developer (70 hrs)
+    time: 31/01/2015
+
+# Publicaciones
+#publications:
+#  - title: Random title of paper. An interesting one.
+#    link: "#"
+#    authors: John E. Doe
+#    conference: Some conference, 2016
+#
+#  - title: Second title of paper. An interesting one too.
+#    link: "#"
+#    authors: John E. Doe
+#    conference: Some conference again, 2018
+
+# Proyectos
+#projects:
+#  - title: Cool Project 
+#    link: #
+#    details: |
+#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#      tempor incididunt ut labore et dolore magna aliqua.
+#
+#  - title: Cool Project 
+#    link: #
+#    details: |
+#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#      tempor incididunt ut labore et dolore magna aliqua.
+
+# Voluntariado
+#volunteering:
+#  - time: 2020-Present
+#    role: PR Manager
+#    company: Some random organization
+#    details: |
+#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
