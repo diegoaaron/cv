@@ -1,0 +1,9 @@
+title: Diego Damián
+description:  CV de Diego Damián
+url: https://diegoaaron.github.io/cv/
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed

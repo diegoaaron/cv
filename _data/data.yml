@@ -1,0 +1,215 @@
+name: Diego Damián
+support_dark_mode: true
+
+# Sidebar
+contact:
+  email: diegoaarondv@gmail.com
+  github: diegoaaron
+#  linkedin: johndoe
+  phone: +51 968 15 28 68 
+#  gitlab: johndoe
+  twitter: diegoaarondv989
+
+languages:
+  - idiom: Español
+  - idiom: Ingles
+
+education:
+  - degree: Bachiller en Administración de empresas
+    time: 2015-2021
+    university: Universidad Tecnológica del Perú
+
+  - degree: Técnico en Computación e Informática
+    time: 2008-2012
+    university: Instituto IDAT
+
+skills:
+  - category: Backend
+    skill: 
+      - Javascript/Node
+      - Solidity
+      - Python
+      - SQL
+  - category: Frontend
+    skill:
+      - HTML/CSS/JS
+  - category: Networking
+    skill:
+      - Routing/Switching
+      - Linux
+
+# Profile
+profile: |
+  Bachiller en administración y técnico en informática con experiencia en analisis y solución de problemas asociados con aplicaciones empresariales. En mi trayectoria he logrado  cumplir con los objetivos asociados a mi cargo y trabajando de forma óptima con las áreas involucradas. 
+
+# Experience
+experience:
+  - role: Analista de soporte de aplicaciones 
+    time: 11/2021-08/2023
+    company: HITSS Perú S.A.C.
+    details: |
+      Administración de servidores Red Hat 7. 
+      Administración de base de datos Oracle 11g. 
+      Monitoreo de servicios a través de Zabbix. 
+      Creación y actualización de scripts con PL/SQL. 
+      Registro y seguimiento de tickets en sistema Remedy.  
+      Creación de scripts en Python para automatización de servidores. 
+      Monitoreo y actualización de scripts en orquestador de aplicaciones TS-ROS. 
+
+    technologies_used: | 
+      Linux, PL/SQL, Python
+  
+  - role: Analista de soporte de aplicaciones 
+    time: 07/2019-01/2020
+    company: HITSS Perú S.A.C.
+    details: |
+      Administración de servidores Red Hat 7. 
+      Monitoreo de aplicaciones en CloudWatch (AWS).
+      Monitoreo de aplicaciones Java (Weblogic server).  
+      Registro y seguimiento de tickets en sistema Remedy. 
+
+    technologies_used: | 
+      Linux, PL/SQL, Java
+
+  - role: Analista TAC 
+    time: 08/2018-12/2018
+    company: Optical Technologies S.A.C.
+    details: |
+      Administración de D.N.S.
+      Administración de CPANEL.
+      Monitoreo de la red backbone (software PRTG).
+      Administración y  troubleshooting  de firewalls Fortigate.
+      Administración y  troubleshooting de routers Cisco y Mikrotik.
+      Administración y  troubleshooting  de equipos wireless Ubiquiti.
+
+    technologies_used: | 
+      Linux, Cisco, Fortigate
+
+  - role: Operador NOC 
+    time: 07/2019-01/2020
+    company: HITSS Perú S.A.C.
+    details: |
+      Monitoreo de servidores Red Hat 7.
+      Monitoreo de aplicaciones Java(Weblogic server).
+      Registro y seguimiento de tickets en sistema Remedy.
+      Monitoreo de servidores Windows 2003/2008/2012 Server.
+
+    technologies_used: | 
+      Linux, Windows Server, Java
+
+  - role: Analista de comunicaciones 1
+    time: 11/2013-02/2015
+    company: Optical Technologies S.A.C.
+    details: |
+      Administración de D.N.S.
+      Monitoreo de la red backbone (software PRTG) 
+      Administración y  troubleshooting  de firewalls Fortigate
+      Administración y  troubleshooting de routers Cisco y Mikrotik
+      Administración y  troubleshooting  de equipos wireless Ubiquiti
+
+    technologies_used: | 
+      Linux, Cisco, Fortigate
+
+  - role: Asistente de sistemas
+    time: 04/2013-10/2013
+    company: CyJ Constructores y Contratistas S.A.C.
+    details: |
+      Administración de firewall ISA Server 2006
+      Administración de intranet en CMS Joomla 2.8
+      Implementación de cableado estructurado LAN
+      Soporte técnico de computadoras, laptops e impresoras
+      Administración de servidores Windows Server 2003 (A.D. y D.N.S.)
+
+    technologies_used: | 
+      Joomla, Windows Server
+
+  - role: Practicas pre-profesionales - Área de sistemas
+    time: 04/2012-03/2013
+    company: CyJ Constructores y Contratistas S.A.C.
+    details: |
+      Implementación de cableado estructurado LAN
+      Soporte técnico de computadoras, laptops e impresoras
+      Administración de servidores Windows Server 2003 (A.D. y D.N.S.)
+
+    technologies_used: | 
+      Windows Server
+
+  - role: Auxiliar de Laboratorio
+    time: 02/2011-10/2013
+    company: Universidad Tecnológica del Perú
+    details: |
+      Implementación de cableado LAN
+      Creación y restauración de backups
+      Monitoreo y mantenimiento de computadoras
+      Administración y gestión del servidor DHCP en Windows Server 2003
+
+    technologies_used: | 
+      Windows Server
+
+publications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
+
+projects:
+  - title: Curso Excel Intermedio 2019 - 06/05/2021
+#    link: #
+    details: |
+      Sistemas UNI - 24 hrs.
+
+  - title: Curso Huawei University Open Courses - 17/12/2020
+#    link: #
+    details: |
+      Huawei Training.
+
+  - title: Curso MS. SQL Server 2016 - Implementación - 24/06/2019
+#    link: #
+    details: |
+      Sistemas UNI - 24 hrs.
+
+  - title: Curso Modelamiento de datos - 24/06/2019
+#    link: #
+    details: |
+      Sistemas UNI - 24 hrs.
+
+  - title: Taller Machine Learning - 11/05/2019
+#    link: #
+    details: |
+      Municipalidad de Lima
+
+  - title: Curso Java 7.0 Fundamentals Developer
+#    link: #
+    details: |
+      Cibertec - 70 hrs.
+# Volunteering
+volunteering:
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+  - time: 2023-Present
+    role: PRX Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# Certification
+certification:
+  - institution: Sistemas UNI
+    name_hours: Curso Excel Intermedio 2019 (24 hrs)
+    time: 06/05/2021
+
+  - institution: Huawei Training
+    name_hours: Curso Huawei University Open Courses
+    time: 17/12/2020
