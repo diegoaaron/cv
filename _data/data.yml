@@ -4,22 +4,21 @@ support_dark_mode: true
 # Sidebar
 contact:
   email: diegoaarondv@gmail.com
-  github: diegoaaron
-#  linkedin: johndoe
   phone: +51 968 15 28 68 
-#  gitlab: johndoe
   twitter: diegoaarondv989
+  github: diegoaaron
+#  gitlab: johndoe
+#  linkedin: johndoe
 
 languages:
-  - idiom: Español
-  - idiom: Ingles
+  - idiom: Ingles intermedio
 
 education:
   - degree: Bachiller en Administración de empresas
     time: 2015-2021
     university: Universidad Tecnológica del Perú
 
-  - degree: Técnico en Computación e Informática
+  - degree: Técnico en Computación e informática
     time: 2008-2012
     university: Instituto IDAT
 
@@ -27,7 +26,6 @@ skills:
   - category: Backend
     skill: 
       - Javascript/Node
-      - Solidity
       - Python
       - SQL
   - category: Frontend
@@ -35,12 +33,12 @@ skills:
       - HTML/CSS/JS
   - category: Networking
     skill:
-      - Routing/Switching
-      - Linux
+      - Routing & Switching
+      - Servidores Linux
 
 # Profile
 profile: |
-  Bachiller en administración y técnico en informática con experiencia en analisis y solución de problemas asociados con aplicaciones empresariales. En mi trayectoria he logrado  cumplir con los objetivos asociados a mi cargo y trabajando de forma óptima con las áreas involucradas. 
+  Bachiller en administración y técnico en informática con experiencia en análisis y solución de problemas relacionados con aplicaciones empresariales del sector de telecomunicaciones. En mi trayectoria he logrado  cumplir con los objetivos asociados a mi cargo y trabajando de forma óptima con las áreas involucradas. 
 
 # Experience
 experience:
@@ -64,11 +62,13 @@ experience:
   - role: Analista de soporte de aplicaciones 
     time: 07/2019-01/2020
     company: HITSS Perú S.A.C.
-    details: |
-      Administración de servidores Red Hat 7. 
-      Monitoreo de aplicaciones en CloudWatch (AWS).
-      Monitoreo de aplicaciones Java (Weblogic server).  
-      Registro y seguimiento de tickets en sistema Remedy. 
+#    details: |
+#      Administración de servidores Red Hat 7. 
+    tareas: 
+     - tar: Administración de servidores Red Hat 7. 
+     - tar: Monitoreo de aplicaciones en CloudWatch (AWS).
+     - tar: Monitoreo de aplicaciones Java (Weblogic server).  
+     - tar: Registro y seguimiento de tickets en sistema Remedy. 
 
     technologies_used: | 
       Linux, PL/SQL, Java
@@ -76,13 +76,15 @@ experience:
   - role: Analista TAC 
     time: 08/2018-12/2018
     company: Optical Technologies S.A.C.
-    details: |
-      Administración de D.N.S.
-      Administración de CPANEL.
-      Monitoreo de la red backbone (software PRTG).
-      Administración y  troubleshooting  de firewalls Fortigate.
-      Administración y  troubleshooting de routers Cisco y Mikrotik.
-      Administración y  troubleshooting  de equipos wireless Ubiquiti.
+#    details: |
+#      Administración de D.N.S.
+    tareas:
+     - tar: Administración de D.N.S.
+     - tar: Administración de CPANEL.
+     - tar: Monitoreo de la red backbone (software PRTG).
+     - tar: Administración y  troubleshooting  de firewalls Fortigate.
+     - tar: Administración y  troubleshooting de routers Cisco y Mikrotik.
+     - tar: Administración y  troubleshooting  de equipos wireless Ubiquiti.
 
     technologies_used: | 
       Linux, Cisco, Fortigate
@@ -90,11 +92,13 @@ experience:
   - role: Operador NOC 
     time: 07/2019-01/2020
     company: HITSS Perú S.A.C.
-    details: |
-      Monitoreo de servidores Red Hat 7.
-      Monitoreo de aplicaciones Java(Weblogic server).
-      Registro y seguimiento de tickets en sistema Remedy.
-      Monitoreo de servidores Windows 2003/2008/2012 Server.
+#    details: |
+#      Monitoreo de servidores Red Hat 7.
+    tareas: 
+     - tar: Monitoreo de servidores Red Hat 7.
+     - tar: Monitoreo de aplicaciones Java(Weblogic server).
+     - tar: Registro y seguimiento de tickets en sistema Remedy.
+     - tar: Monitoreo de servidores Windows 2003/2008/2012 Server.
 
     technologies_used: | 
       Linux, Windows Server, Java
@@ -102,12 +106,14 @@ experience:
   - role: Analista de comunicaciones 1
     time: 11/2013-02/2015
     company: Optical Technologies S.A.C.
-    details: |
-      Administración de D.N.S.
-      Monitoreo de la red backbone (software PRTG) 
-      Administración y  troubleshooting  de firewalls Fortigate
-      Administración y  troubleshooting de routers Cisco y Mikrotik
-      Administración y  troubleshooting  de equipos wireless Ubiquiti
+#    details: |
+#      Administración de D.N.S.
+    tareas:      
+     - tar: Administración de D.N.S.
+     - tar: Monitoreo de la red backbone (software PRTG) 
+     - tar: Administración y  troubleshooting  de firewalls Fortigate
+     - tar: Administración y  troubleshooting de routers Cisco y Mikrotik
+     - tar: Administración y  troubleshooting  de equipos wireless Ubiquiti
 
     technologies_used: | 
       Linux, Cisco, Fortigate
@@ -115,12 +121,14 @@ experience:
   - role: Asistente de sistemas
     time: 04/2013-10/2013
     company: CyJ Constructores y Contratistas S.A.C.
-    details: |
-      Administración de firewall ISA Server 2006
-      Administración de intranet en CMS Joomla 2.8
-      Implementación de cableado estructurado LAN
-      Soporte técnico de computadoras, laptops e impresoras
-      Administración de servidores Windows Server 2003 (A.D. y D.N.S.)
+#    details: |
+#      Administración de firewall ISA Server 2006
+    tareas: 
+     - tar: Administración de firewall ISA Server 2006
+     - tar: Administración de intranet en CMS Joomla 2.8
+     - tar: Implementación de cableado estructurado LAN
+     - tar: Soporte técnico de computadoras, laptops e impresoras
+     - tar: Administración de servidores Windows Server 2003 (A.D. y D.N.S.)
 
     technologies_used: | 
       Joomla, Windows Server
@@ -128,25 +136,29 @@ experience:
   - role: Practicas pre-profesionales - Área de sistemas
     time: 04/2012-03/2013
     company: CyJ Constructores y Contratistas S.A.C.
-    details: |
-      Implementación de cableado estructurado LAN
-      Soporte técnico de computadoras, laptops e impresoras
-      Administración de servidores Windows Server 2003 (A.D. y D.N.S.)
+#    details: |
+#      Implementación de cableado estructurado LAN
+    tareas: 
+     - tar: Implementación de cableado estructurado LAN
+     - tar: Soporte técnico de computadoras, laptops e impresoras
+     - tar: Administración de servidores Windows Server 2003 (A.D. y D.N.S.)
 
     technologies_used: | 
-      Windows Server
+      Windows Server, cableado estructurado, Joomla
 
   - role: Auxiliar de Laboratorio
     time: 02/2011-10/2013
     company: Universidad Tecnológica del Perú
-    details: |
-      Implementación de cableado LAN
-      Creación y restauración de backups
-      Monitoreo y mantenimiento de computadoras
-      Administración y gestión del servidor DHCP en Windows Server 2003
+#    details: |
+#      Implementación de cableado LAN
+    tareas:
+     - tar: Implementación de cableado LAN
+     - tar: Creación y restauración de backups
+     - tar: Monitoreo y mantenimiento de computadoras
+     - tar: Administración y gestión del servidor DHCP en Windows Server 2003
 
     technologies_used: | 
-      Windows Server
+      Windows Server, cableado estructurado
 
 # Certificaciones
 certification:
