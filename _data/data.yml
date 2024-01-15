@@ -7,16 +7,16 @@ contact:
   phone: +51 968 15 28 68 
   twitter: diegoaarondv989
   github: diegoaaron
-#  gitlab: johndoe
 #  linkedin: johndoe
+#  gitlab: johndoe
 
 languages:
   - idiom: Ingles intermedio
 
 education:
-  - degree: Bachiller en Administración de empresas
-    time: 2015-2021
-    university: Universidad Tecnológica del Perú
+#  - degree: Bachiller en Administración de empresas
+#    time: 2015-2021
+#    university: Universidad Tecnológica del Perú
 
   - degree: Técnico en Computación e informática
     time: 2008-2012
@@ -25,12 +25,13 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Javascript/Node
-      - Python
+      - Javascript (Node.js)
+      - Java
       - SQL
   - category: Frontend
     skill:
       - HTML/CSS/JS
+      - React
   - category: Networking
     skill:
       - Routing & Switching
@@ -38,12 +39,12 @@ skills:
 
 # Profile
 profile: |
-  Bachiller en administración y técnico en informática con experiencia en análisis y solución de problemas relacionados con aplicaciones empresariales del sector de telecomunicaciones. En mi trayectoria he logrado  cumplir con los objetivos asociados a mi cargo y trabajando de forma óptima con las áreas involucradas. 
+  Técnico en informática con experiencia en soporte de aplicaciones backend en Java y Javascript (Node.js). Mi experiencia incluye la gestión de proyectos ágiles y colaboración efectiva en equipos multidisciplinarios durante la integración, pruebas y documentación de proyectos.
 
 # Experience
 experience:
   - role: Analista de soporte de aplicaciones 
-    time: 11/2021-08/2023
+    time: 11/2021 - 08/2023
     company: HITSS Perú S.A.C.
 #    details: |
 #      Administración de servidores Red Hat 7. 
@@ -53,14 +54,14 @@ experience:
      - tar: Monitoreo de servicios a través de Zabbix. 
      - tar: Creación y actualización de scripts con PL/SQL. 
      - tar: Registro y seguimiento de tickets en sistema Remedy.  
-     - tar: Creación de scripts en Python para automatización de servidores. 
+     - tar: Creación de scripts en Javascript(Node.js) para automatización de servidores. 
      - tar: Monitoreo y actualización de scripts en orquestador de aplicaciones TS-ROS. 
 
     technologies_used: | 
-      Linux, PL/SQL, Python
+      Linux, PL/SQL, JavaScript(Node.js), Java, JavaScript
   
   - role: Analista de soporte de aplicaciones 
-    time: 07/2019-01/2020
+    time: 07/2019 - 01/2020
     company: HITSS Perú S.A.C.
 #    details: |
 #      Administración de servidores Red Hat 7. 
@@ -74,10 +75,10 @@ experience:
       Linux, PL/SQL, Java
 
   - role: Analista TAC 
-    time: 08/2018-12/2018
+    time: 08/2018 - 12/2018
     company: Optical Technologies S.A.C.
 #    details: |
-#      Administración de D.N.S.
+#      Administración de servidores Red Hat 7. 
     tareas:
      - tar: Administración de D.N.S.
      - tar: Administración de CPANEL.
@@ -90,10 +91,10 @@ experience:
       Linux, Cisco, Fortigate
 
   - role: Operador NOC 
-    time: 07/2019-01/2020
+    time: 03/2018 - 07/2018
     company: HITSS Perú S.A.C.
 #    details: |
-#      Monitoreo de servidores Red Hat 7.
+#      Administración de servidores Red Hat 7. 
     tareas: 
      - tar: Monitoreo de servidores Red Hat 7.
      - tar: Monitoreo de aplicaciones Java(Weblogic server).
@@ -104,10 +105,10 @@ experience:
       Linux, Windows Server, Java
 
   - role: Analista de comunicaciones 1
-    time: 11/2013-02/2015
+    time: 11/2013 - 02/2015
     company: Optical Technologies S.A.C.
 #    details: |
-#      Administración de D.N.S.
+#      Administración de servidores Red Hat 7. 
     tareas:      
      - tar: Administración de D.N.S.
      - tar: Monitoreo de la red backbone (software PRTG) 
@@ -119,10 +120,10 @@ experience:
       Linux, Cisco, Fortigate
 
   - role: Asistente de sistemas
-    time: 04/2013-10/2013
+    time: 04/2013 - 10/2013
     company: CyJ Constructores y Contratistas S.A.C.
 #    details: |
-#      Administración de firewall ISA Server 2006
+#      Administración de servidores Red Hat 7. 
     tareas: 
      - tar: Administración de firewall ISA Server 2006
      - tar: Administración de intranet en CMS Joomla 2.8
@@ -134,10 +135,10 @@ experience:
       Joomla, Windows Server
 
   - role: Practicas pre-profesionales - Área de sistemas
-    time: 04/2012-03/2013
+    time: 04/2012 - 03/2013
     company: CyJ Constructores y Contratistas S.A.C.
 #    details: |
-#      Implementación de cableado estructurado LAN
+#      Administración de servidores Red Hat 7. 
     tareas: 
      - tar: Implementación de cableado estructurado LAN
      - tar: Soporte técnico de computadoras, laptops e impresoras
@@ -147,10 +148,10 @@ experience:
       Windows Server, cableado estructurado, Joomla
 
   - role: Auxiliar de Laboratorio
-    time: 02/2011-10/2013
+    time: 02/2011 - 10/2011
     company: Universidad Tecnológica del Perú
 #    details: |
-#      Implementación de cableado LAN
+#      Administración de servidores Red Hat 7. 
     tareas:
      - tar: Implementación de cableado LAN
      - tar: Creación y restauración de backups
@@ -167,7 +168,7 @@ certification:
     time: 06/05/2021
 
   - institution: Huawei Training
-    name_hours: Huawei University Open Courses
+    name_hours: Curso Huawei University Open Courses
     time: 17/12/2020
 
   - institution: Sistemas UNI
@@ -177,10 +178,6 @@ certification:
   - institution: Sistemas UNI
     name_hours: Curso de Modelamiento de datos (24 hrs)
     time: 24/06/2019
-
-  - institution: Municipalidad de Lima
-    name_hours: Taller de Machine Learning
-    time: 11/05/2019
 
   - institution: Cibertec
     name_hours: Curso Java 7.0 Fundamentals Developer (70 hrs)
