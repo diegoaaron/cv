@@ -39,7 +39,7 @@ skills:
 
 # Profile
 profile: |
-  Técnico en informática con experiencia en soporte de aplicaciones backend en Java y Javascript (Node.js). Mi experiencia incluye la gestión de proyectos ágiles y colaboración efectiva en equipos multidisciplinarios durante la integración, pruebas y documentación de proyectos.
+  Técnico en informática con experiencia en soporte de aplicaciones backend en Javascript (Node.js). Mi experiencia incluye la gestión de proyectos ágiles y colaboración efectiva en equipos multidisciplinarios durante la integración, pruebas y documentación de proyectos.
 
 # Experience
 experience:
@@ -58,7 +58,7 @@ experience:
      - tar: Monitoreo y actualización de scripts en orquestador de aplicaciones TS-ROS. 
 
     technologies_used: | 
-      Linux, PL/SQL, JavaScript(Node.js), Java, JavaScript
+      Linux, PL/SQL, JavaScript(Node.js)
   
   - role: Analista de soporte de aplicaciones 
     time: 07/2019 - 01/2020
