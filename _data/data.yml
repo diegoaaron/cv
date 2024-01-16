@@ -54,11 +54,11 @@ experience:
      - tar: Monitoreo de servicios a través de Zabbix. 
      - tar: Creación y actualización de scripts con PL/SQL. 
      - tar: Registro y seguimiento de tickets en sistema Remedy.  
-     - tar: Creación de scripts en Javascript(Node.js) para automatización de servidores. 
+     - tar: Creación de scripts en Javascript (Node.js) para automatización de servidores. 
      - tar: Monitoreo y actualización de scripts en orquestador de aplicaciones TS-ROS. 
 
     technologies_used: | 
-      Linux, PL/SQL, JavaScript(Node.js)
+      Linux, PL/SQL, JavaScript (Node.js)
   
   - role: Analista de soporte de aplicaciones 
     time: 07/2019 - 01/2020
